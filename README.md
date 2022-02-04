@@ -3,6 +3,6 @@ University finder UI
 
 #instruction
 
-flutter clean \n
-flutter pub get \n
+flutter clean <br />
+flutter pub get <br />
 flutter run
