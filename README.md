@@ -1,4 +1,4 @@
-﻿**
+﻿
 
 # University Finder
 
@@ -9,4 +9,4 @@ This app is for students who will go to college.
 - flutter clean
 - flutter pub get
 - flutter run
-**
+
