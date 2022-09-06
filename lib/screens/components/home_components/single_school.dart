@@ -101,7 +101,7 @@ class SingleSchool extends StatelessWidget {
           ],
         ),
         const SizedBox(
-          height: 25,
+          height: 18,
         ),
         Expanded(
           child: ListView(
@@ -239,5 +239,27 @@ class SingleSchool extends StatelessWidget {
         return Text('asd');
       },
     );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
   }
 }
