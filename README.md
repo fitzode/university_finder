@@ -1,6 +1,9 @@
-University finder UI
+# University Finder
 
+This app is for students that will go to university.
 
-#instruction
-flutter clean
-flutter pub get
+#instructions
+- 
+- flutter clean
+- flutter pub get
+- flutter run
